@@ -44,7 +44,9 @@
 
 
 ### Результаты:  
-Алгоритм угадывает число в среднем за 4 попытки.
+Алгоритм угадывает число в среднем за 4 попытки.  
+[Ссылка на код](https://github.com/keiravartegven/sf_ds/blob/main/project_0/game_v3.py)  
+[Ссылка на Jupyter Notebook](https://github.com/keiravartegven/sf_ds/blob/main/project_0/game.ipynb)  
 
 :arrow_up:[к оглавлению](https://github.com/keiravartegven/sf_ds/tree/main/project_0/README_.md#Оглавление)
 
